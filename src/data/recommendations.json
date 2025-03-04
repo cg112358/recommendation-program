@@ -1,0 +1,293 @@
+{
+  "recommendations": {
+    "restaurants": [
+      {
+        "name": "Pasta Palace",
+        "cuisine": "Italian",
+        "location": "Downtown",
+        "rating": 4.5
+      },
+      {
+        "name": "Sushi Spot",
+        "cuisine": "Japanese",
+        "location": "Uptown",
+        "rating": 4.7
+      },
+      {
+        "name": "Burger Barn",
+        "cuisine": "American",
+        "location": "Midtown",
+        "rating": 4.6
+      },
+      {
+        "name": "Taco Town",
+        "cuisine": "Mexican",
+        "location": "Downtown",
+        "rating": 4.4
+      },
+      {
+        "name": "Pizza Place",
+        "cuisine": "Italian",
+        "location": "Uptown",
+        "rating": 4.3
+      },
+      {
+        "name": "Curry Corner",
+        "cuisine": "Indian",
+        "location": "Midtown",
+        "rating": 4.5
+      },
+      {
+        "name": "Pho Phactory",
+        "cuisine": "Vietnamese",
+        "location": "Downtown",
+        "rating": 4.6
+      },
+      {
+        "name": "Falafel Factory",
+        "cuisine": "Middle Eastern",
+        "location": "Uptown",
+        "rating": 4.4
+      },
+      {
+        "name": "Bistro Bistro",
+        "cuisine": "French",
+        "location": "Midtown",
+        "rating": 4.7
+      },
+      {
+        "name": "Diner Delight",
+        "cuisine": "American",
+        "location": "Downtown",
+        "rating": 4.5
+      }
+    ],
+    "movies": [
+      {
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "year": 2010,
+        "rating": 8.8
+      },
+      {
+        "title": "The Godfather",
+        "genre": "Crime",
+        "year": 1972,
+        "rating": 9.2
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "year": 1994,
+        "rating": 9.3
+      },
+      {
+        "title": "The Dark Knight",
+        "genre": "Action",
+        "year": 2008,
+        "rating": 9.0
+      },
+      {
+        "title": "Pulp Fiction",
+        "genre": "Crime",
+        "year": 1994,
+        "rating": 8.9
+      },
+      {
+        "title": "Forrest Gump",
+        "genre": "Drama",
+        "year": 1994,
+        "rating": 8.8
+      },
+      {
+        "title": "The Matrix",
+        "genre": "Sci-Fi",
+        "year": 1999,
+        "rating": 8.7
+      },
+      {
+        "title": "Goodfellas",
+        "genre": "Crime",
+        "year": 1990,
+        "rating": 8.7
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "genre": "Thriller",
+        "year": 1991,
+        "rating": 8.6
+      },
+      {
+        "title": "The Departed",
+        "genre": "Crime",
+        "year": 2006,
+        "rating": 8.5
+      }
+    ],
+    "books": [
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "rating": 4.7
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic",
+        "rating": 4.8
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "rating": 4.7
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Classic",
+        "rating": 4.6
+      },
+      {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "genre": "Classic",
+        "rating": 4.5
+      },
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "rating": 4.6
+      },
+      {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Sci-Fi",
+        "rating": 4.7
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "rating": 4.6
+      },
+      {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "genre": "Classic",
+        "rating": 4.5
+      },
+      {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "genre": "Dystopian",
+        "rating": 4.6
+      }
+    ],
+    "television": [
+      {
+        "title": "Breaking Bad",
+        "genre": "Drama",
+        "seasons": 5,
+        "rating": 9.5
+      },
+      {
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "seasons": 8,
+        "rating": 9.3
+      },
+      {
+        "title": "The Office",
+        "genre": "Comedy",
+        "seasons": 9,
+        "rating": 8.9
+      },
+      {
+        "title": "Stranger Things",
+        "genre": "Sci-Fi",
+        "seasons": 3,
+        "rating": 8.7
+      },
+      {
+        "title": "Friends",
+        "genre": "Comedy",
+        "seasons": 10,
+        "rating": 8.9
+      },
+      {
+        "title": "The Crown",
+        "genre": "Drama",
+        "seasons": 4,
+        "rating": 8.7
+      },
+      {
+        "title": "Reacher",
+        "genre": "Action",
+        "seasons": 3,
+        "rating": 8.2
+      },
+      {
+        "title": "The Witcher",
+        "genre": "Fantasy",
+        "seasons": 2,
+        "rating": 8.2
+      },
+      {
+        "title": "The Mandalorian",
+        "genre": "Sci-Fi",
+        "seasons": 2,
+        "rating": 8.8
+      },
+      {
+        "title": "Silo",
+        "genre": "Drama",
+        "seasons": 2,
+        "rating": 8.3}
+    ],
+    "podcasts": [
+      {
+        "title": "The Daily",
+        "rating": 4.6
+      },
+      {
+        "title": "Serial",
+        "rating": 4.5
+      },
+      {
+        "title": "Stuff You Should Know",
+        "rating": 4.7
+      },
+      {
+        "title": "How I Built This",
+        "rating": 4.8
+      },
+      {
+        "title": "The Joe Rogan Experience",
+        "rating": 4.9
+      },
+      {
+        "title": "TED Talks Daily",
+        "rating": 4.7
+      },
+      {
+        "title:": "The Way Of Will John",
+        "rating": 4.9
+      },
+      {
+        "title": "The Tim Ferriss Show",
+        "rating": 4.8
+      },
+      {
+        "title": "The Daily Stoic",
+        "rating": 4.7
+      },
+      {
+        "title": "Journey to Truth",
+        "rating": 4.8
+      }
+    ]
+  }
+}
